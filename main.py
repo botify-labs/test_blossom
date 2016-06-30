@@ -1,6 +1,8 @@
 
+def test_auto_transition():
+    pass
 
-def test_jira_integration:
+def test_jira_integration():
     return (False, True)
 
 if __name__ == "__main__":
