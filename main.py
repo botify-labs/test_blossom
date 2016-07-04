@@ -1,7 +1,7 @@
 
 
 def test_jira_integration:
-    return (False, True)
+    return (False, True, 2)
 
 if __name__ == "__main__":
     print "coucou blossom"
